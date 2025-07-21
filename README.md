@@ -1,13 +1,13 @@
-## Hi there 👋
+## 👋 I'm Sameer Shaik 
 
-👋 Hi, I'm Sameer Shaik  
+ 
 **Aspiring Data Scientist | ML & AI Enthusiast | Problem Solver**
 
 Welcome to my GitHub! I'm Sameer — a data science graduate student passionate about solving real-world problems using data, algorithms, and machine learning. I enjoy turning messy datasets into meaningful insights and building end-to-end analytical solutions.
 
-🌐 Portfolio → [sameershaik.github.io](https://sameershaik.github.io)  
-📫 Email → sameer@email.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/sameershaik)  
+ 
+📫 Email → sameershaik2402@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/sameer-shaik-data/)  
 
 ---
 
@@ -19,7 +19,7 @@ I focus on building data-driven systems using statistical modeling, machine lear
 - Data visualization using Power BI and Tableau
 - Data cleaning and wrangling using Pandas and SQL
 - Real-time computer vision and surveillance using OpenCV and YOLO
-- Cloud deployment (AWS | Azure) in progress
+- Cloud deployment (AWS | Azure)
 
 ---
 
@@ -58,16 +58,6 @@ Created a comprehensive interactive dashboard to analyze and filter sales data b
 - Led data cleaning and preprocessing for multiple analytics pipelines  
 - Developed ML models for Obesity Risk and QR code encryption  
 - Built dashboard and classification tools with Python and Flask
-
-**Course Projects & Freelance Work**  
-- Electric Bill Management System  
-- Excel automation for sales teams  
-- Ad analytics and A/B testing strategy for a mock e-commerce platform
-
----
-
-📌 Check out [my portfolio](https://sameershaik.github.io) for detailed write-ups, dashboards, and blog posts!
-
 ---
 
 🔁 *Let’s connect, collaborate, and build together!*
