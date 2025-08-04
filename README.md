@@ -11,14 +11,14 @@ Welcome to my GitHub! I'm Sameer — a data science graduate passionate about so
 ---
 
 ### 🔍 What I Do
-I focus on building data-driven systems using statistical modeling, machine learning, and data visualization. My interests include:
+I work at the intersection of data science, machine learning, and business intelligence—designing systems that turn raw data into actionable insights and intelligent automation. My background includes:
 
-- Predictive modeling and classification (XGBoost, SVM, Random Forest)
-- Deep learning with TensorFlow and PyTorch
-- Data visualization using Power BI and Tableau
-- Data cleaning and wrangling using Pandas and SQL
-- Real-time computer vision and surveillance using OpenCV and YOLO
-- Cloud deployment (AWS | Azure)
+- Data wrangling and automation using Pandas, SQL, and Power Query
+- Predictive modeling and classification using XGBoost, SVM, and Random Forest
+- Deep learning for tabular and image data with TensorFlow and PyTorch
+- Interactive data visualization using Power BI and Tableau for business reporting
+- Real-time computer vision for surveillance systems using OpenCV and YOLO
+- Cloud-based deployment and data pipelines on AWS and Azure
 
 ---
 
