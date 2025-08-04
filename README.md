@@ -13,7 +13,7 @@ Welcome to my GitHub! I'm Sameer — a data science graduate passionate about so
 ### 🔍 What I Do
 I focus on building data-driven systems using statistical modeling, machine learning, and data visualization. My interests include:
 
-- Predictive modeling and classification (XGBoost, SVM, Random Forests)
+- Predictive modeling and classification (XGBoost, SVM, Random Forest)
 - Deep learning with TensorFlow and PyTorch
 - Data visualization using Power BI and Tableau
 - Data cleaning and wrangling using Pandas and SQL
