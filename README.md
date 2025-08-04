@@ -22,22 +22,6 @@ I focus on building data-driven systems using statistical modeling, machine lear
 
 ---
 
-### 🔧 Featured Projects
-
-📉 **Credit Card Default Prediction**  
-Built an ML pipeline using XGBoost and Logistic Regression to predict default probability, achieving 0.91 accuracy.
-
-🧠 **Obesity Risk Prediction**  
-Used LightGBM and XGBoost for multi-class classification on lifestyle features, helping identify high-risk groups.
-
-🔐 **Security & Surveillance System**  
-Developed a real-time intruder detection system using OpenCV, YOLO, and facial recognition with GUI dashboard.
-
-📊 **Retail Sales Dashboard (Power BI)**  
-Created a comprehensive interactive dashboard to analyze and filter sales data by state, category, and time period.
-
----
-
 ### 🧠 Skills Snapshot
 
 | Category        | Tools & Tech |
