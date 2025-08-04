@@ -42,18 +42,18 @@ Created a comprehensive interactive dashboard to analyze and filter sales data b
 
 | Category        | Tools & Tech |
 |----------------|--------------|
-| **Languages**   | Python, R, SQL, HTML, JavaScript |
+| **Languages**   | Python, R, SQL|
 | **ML/AI**       | Scikit-learn, XGBoost, LightGBM, TensorFlow |
 | **Visualization** | Power BI, Tableau, Matplotlib, Seaborn |
 | **Databases**   | MySQL, SQLite, PostgreSQL |
-| **Cloud & Dev** | AWS, Azure (learning), Flask, Git, Docker |
+| **Cloud & Dev** | AWS (IAM, Lambda, S3, EC2), Azure, Git|
 | **Tools**       | Jupyter, VSCode, GitHub, Excel |
 
 ---
 
 ### 📈 Experience Highlights
 
-**Aditi Digital Solutions** – *Data Science Intern*  
+**Aditi Digital Solutions** – *Data Analyst Intern*  
 - Led data cleaning and preprocessing for multiple analytics pipelines  
 - Developed ML models for Obesity Risk and QR code encryption  
 - Built dashboard and classification tools with Python and Flask
