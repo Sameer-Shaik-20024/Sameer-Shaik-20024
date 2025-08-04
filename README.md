@@ -53,8 +53,7 @@ Created a comprehensive interactive dashboard to analyze and filter sales data b
 
 ### 📈 Experience Highlights
 
-**NIT Puducherry** | **Research Assistant** Engineered a Multi-Linear Regression (MLR) based MPPT controller in MATLAB/SIMULINK, achieving over 96% power 
-conversion efficiency across dynamic irradiance and temperature conditions.
+**NIT Puducherry** | **Research Assistant** Developed an Regression based MPPT (Maximum Power Point Tracking) controller in MATLAB/SIMULINK; achieved over 96% power efficiency and <0.02s convergence time to reach MPP with minimal oscillations in real-time conditions.
 
 **Aditi Digital Solutions** | **Data Analyst Intern**  
 - Led data cleaning and preprocessing for multiple analytics pipelines  
