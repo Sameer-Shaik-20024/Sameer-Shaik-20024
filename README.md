@@ -1,13 +1,12 @@
 ## 👋 I'm Sameer Shaik 
 
  
-**Aspiring Data Scientist | ML & AI Enthusiast | Problem Solver**
+**Aspiring Data Analyst & Scientist | Problem Solver**
 
 Welcome to my GitHub! I'm Sameer — a data science graduate student passionate about solving real-world problems using data, algorithms, and machine learning. I enjoy turning messy datasets into meaningful insights and building end-to-end analytical solutions.
 
  
-📫 Email → sameershaik2402@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/sameer-shaik-data/)  
+📫 Email → sameershaik2402@gmail.com  🔗 [LinkedIn](https://www.linkedin.com/in/sameer-shaik-data/)  
 
 ---
 
